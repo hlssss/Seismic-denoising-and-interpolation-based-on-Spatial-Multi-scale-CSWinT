@@ -1,5 +1,6 @@
 # Seismic-denoising-and-interpolation-based-on-Spatial-Multi-scale-CSWinT
 This repository gives the codes for "Simultaneous Denoising and Interpolation of Seismic Data based on Spatial Multi-scale Cross-shaped Window Transformer".
+
 Step 1: Generate synthetic seismic. 
 Generate synthetic seismic data and store the training data set in "data/train" and the test set in "data/test".
 
